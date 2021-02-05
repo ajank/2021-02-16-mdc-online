@@ -393,6 +393,7 @@ These are the installation instructions for the tools used
 during the workshop.
 {% endcomment %}
 
+{% comment %}
 {% if site.carpentry == "swc" %}
 {% include swc/setup.html %}
 {% elsif site.carpentry == "dc" %}
@@ -400,3 +401,9 @@ during the workshop.
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
 {% endif %}
+{% endcomment %}
+
+<p>
+  The setup instructions can be found at <a href="https://datacarpentry.org/ecology-workshop/setup-r-workshop.html">
+    the workshop overview site</a>. We will follow the curriculum of the Data Carpentry Ecology workshops (with R).
+</p>
