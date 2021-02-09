@@ -374,6 +374,23 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+<h3>Install a spreadsheet program, OpenRefine, R and RStudio</h3>
+
+<p>
+  The setup instructions can be found at <a href="https://datacarpentry.org/ecology-workshop/setup-r-workshop.html">
+    the workshop overview site</a>. Note that we will follow the curriculum of the Data Carpentry Ecology workshops (with R).
+</p>
+
+{% comment %}
+{% if site.carpentry == "swc" %}
+{% include swc/setup.html %}
+{% elsif site.carpentry == "dc" %}
+{% include dc/setup.html %}
+{% elsif site.carpentry == "lc" %}
+{% include lc/setup.html %}
+{% endif %}
+{% endcomment %}
+
 {% comment %}
 For online workshops, the section below provides:
 - installation instructions for the Zoom client
@@ -391,21 +408,4 @@ to include the relevant installation instrucctions.
 {% comment %}
 These are the installation instructions for the tools used
 during the workshop.
-{% endcomment %}
-
-<h3>Install a spreadsheet program, OpenRefine, R and RStudio</h3>
-
-<p>
-  The setup instructions can be found at <a href="https://datacarpentry.org/ecology-workshop/setup-r-workshop.html">
-    the workshop overview site</a>. Note that we will follow the curriculum of the Data Carpentry Ecology workshops (with R).
-</p>
-
-{% comment %}
-{% if site.carpentry == "swc" %}
-{% include swc/setup.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/setup.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/setup.html %}
-{% endif %}
 {% endcomment %}
