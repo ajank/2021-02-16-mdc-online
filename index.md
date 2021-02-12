@@ -377,8 +377,10 @@ please preview your site before committing, and make sure to run
 <h3>Install a spreadsheet program, OpenRefine, R and RStudio</h3>
 
 <p>
-  The setup instructions can be found at <a href="https://datacarpentry.org/ecology-workshop/setup-r-workshop.html">
-    the workshop overview site</a>. Note that we will follow the curriculum of the Data Carpentry Ecology workshops (with R).
+    Please install a spreadsheet program (such as LibreOffice or Microsoft Excel), OpenRefine, and a recent version of R and RStudio.
+    The setup instructions can be found at <a href="https://datacarpentry.org/ecology-workshop/setup-r-workshop.html">
+    the workshop overview site</a>. If you encounter any problems, you can get help during the troubleshooting session on the day before the workshop.
+    Note that we will mostly follow the curriculum of the Data Carpentry Ecology workshops (with R). There is no need to install SQLite Browser.
 </p>
 
 {% comment %}
