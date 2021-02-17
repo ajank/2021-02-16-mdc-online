@@ -176,7 +176,6 @@ Modify the block below if there are any special requirements.
   They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
 <p>This workshop is being sponsored by the <a href="https://www.heibrids.berlin/">HEIBRiDS</a> and <a href="https://www.helmholtz-hida.de/en/">HIDA</a>.
-<img src="https://cdn.evbuc.com/eventlogos/56278121/logoexcelerateeuflagacknowledgement.png" alt="ELIXIR – EXCELERATE">
 </p>
 
 {% comment %}
