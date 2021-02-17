@@ -175,8 +175,7 @@ Modify the block below if there are any special requirements.
   {% endif %}
   They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
-<p>This workshop is being sponsored by the <a href="https://www.heibrids.berlin/">HEIBRiDS</a> and <a href="https://www.helmholtz-hida.de/en/">HIDA</a>.
-</p>
+
 
 {% comment %}
 ACCESSIBILITY
@@ -238,6 +237,11 @@ Display the contact email address set in the configuration file.
   <strong>Roles:</strong>
   To learn more about the roles at the workshop (who will be doing what),
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
+</p>
+
+<p id="sponsors">
+  <strong>Sponsors:</strong>
+  This workshop is being sponsored by the <a href="https://www.heibrids.berlin/">HEIBRiDS</a> and <a href="https://www.helmholtz-hida.de/en/">HIDA</a>.
 </p>
 
 {% comment %}
