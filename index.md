@@ -242,7 +242,10 @@ Display the contact email address set in the configuration file.
 <p id="sponsors">
   <strong>Sponsors:</strong>
   This workshop is being sponsored by the <a href="https://www.heibrids.berlin/">HEIBRiDS</a> and <a href="https://www.helmholtz-hida.de/en/">HIDA</a>.
-  <a href='https://postimg.cc/2LBs5CF8' target='_blank'><img src='https://i.postimg.cc/2LBs5CF8/logo1.png' border='0' alt='logo1'/></a>
+</p>
+
+<p>
+<a href='https://postimg.cc/2LBs5CF8' target='_blank'><img src='https://i.postimg.cc/2LBs5CF8/logo1.png' border='0' alt='logo1'/></a>
 </p>
 
 {% comment %}
